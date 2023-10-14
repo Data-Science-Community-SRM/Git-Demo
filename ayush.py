@@ -1,2 +1,1 @@
-print("Creating pull request from:")
-print("Ayushman Mishra")
+print("Creating pull request from")
